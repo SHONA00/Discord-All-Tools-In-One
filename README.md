@@ -1,1 +1,17 @@
 # Discord-All-Tools-In-One
+ - RAT Tool - Create a RAT file. Once the victim runs it, you can control his PC through a BOT Discord.
+ - Raid Tool - Easily raid a discord server with a BOT Discord.
+ - VideoCrash Maker - Convert a video into an identical video that makes Crash discord app when played.
+ - Massive Report - Loop that reports the message of a user (it can ban his account).
+ - WebHooks Spammer - Spam the message you want through a WebHooks.
+ - Token Grabber - Creates a TokenGrabber.py file to get a user's token and allows you to convert it to an Exe.
+ - Token Qr Generator - Generate a "Fake Nitro QR Code". If a user scans it, you get his token.
+ - Token BrutForce - BrutForce the token of a target user by its ID (the process can be long).
+ - Token Rape - Quit the servers, Delete friends and DMs, change the settings of a user with his Token.
+ - Token Informations - Get all the information of a Discord User with his Token.
+ - AutoLogin - Enter a user's token and automatically log in to the user's account.
+ - Nitro Generator - Generates and tests a Nitro code. If it works, you will be notified.
+ - Token Generator - Generate and test a Discord Token. If it works, you will be notified.
+ - HypeSquad House Changer - Select your HypeSquad House.
+ - Cycle ColorTheme - Cycle the color of the Discord theme (Black/White) of a user with his Token.
+ - WebHooks Remover - Delete any WebHooks link.
